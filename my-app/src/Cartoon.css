@@ -8,7 +8,7 @@
 .eye-container {
     display: flex;
     padding-top: 100px;
-    justify-content: space-around;
+    justify-content: space-between;
     
 }
 
@@ -17,7 +17,8 @@
     width: 30px;
     height: 30px;
     border-radius: 30px;
-    margin-left: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
 .nose {
@@ -25,7 +26,8 @@
     width: 20px;
     height: 40px;
     border-radius: 30px;
-    margin-left: 93px;
+    margin-left: 90px;
+    margin-top: -25px;
 }
 
 .mouth {
@@ -36,5 +38,5 @@
     border-top-right-radius: 50px;
     transform: rotate(180deg);
     margin-left: 67px;
-    margin-top: 10px;
+    margin-top: 20px;
 }

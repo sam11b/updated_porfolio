@@ -1,0 +1,23 @@
+.anchor {
+    margin: 20px;
+    position: static;
+    width: 100px;
+    height: 100px;
+}
+
+.anchor .svg-inline--fa.fa-w-18 {
+    width: 50px;
+    height: 50px;
+    color: #052939;
+}
+
+.anchor .svg-inline--fa.fa-w-18:hover {
+    animation: spin 1s;
+    cursor: pointer;
+
+}
+
+@keyframes spin {
+    from {transform:rotate(0deg);}
+    to {transform:rotate(360deg);}
+  }

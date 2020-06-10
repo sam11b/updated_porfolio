@@ -3,11 +3,15 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import Intro from './Intro';
 import Cartoon from './Cartoon.js';
+import Waves from './Waves.js';
+import Menu from './Menu.js';
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
   <React.StrictMode>
+    <Menu />
     <Intro />
+    <Waves />
   </React.StrictMode>,
   document.getElementById('root')
 );

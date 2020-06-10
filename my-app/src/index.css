@@ -1,5 +1,9 @@
 body {
   background-color: #d52e3f;
+  /* background-image: url('img/blue-wave.svg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  */
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
