@@ -9,6 +9,7 @@
     position: absolute;
     transform: rotate(270deg);
     margin: 10px;
+    z-index: -1;
 }
 
 .links a {

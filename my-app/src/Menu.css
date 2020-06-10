@@ -1,3 +1,8 @@
+@font-face {
+    font-family: Radnika;
+    src: url(fonts/Radnika-Medium.otf);
+  }
+
 .anchor {
     margin: 20px;
     position: static;
@@ -20,4 +25,68 @@
 @keyframes spin {
     from {transform:rotate(0deg);}
     to {transform:rotate(360deg);}
-  }
+}
+
+.popup {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: #052939;
+}
+
+.popup .svg-inline--fa.fa-w-11 {
+    width: 50px;
+    height: 50px;
+    color: #efa032;
+    cursor: pointer;
+}
+
+.menu-enter {
+    opacity: 0;
+    -webkit-transition: opacity 1s ease;
+    overflow: hidden; 
+}
+  
+.menu-enter.menu-enter-active {
+    opacity: 1;
+}
+  
+.menu-leave {
+    max-height: 100%;
+    -webkit-transition: max-height 1s ease; 
+}
+  
+.menu-leave.menu-leave-active {
+    overflow: hidden;
+    max-height: 0px; 
+}
+
+.webpage {
+    height: 60px;
+    width: 100%;
+    font-size: 50px;
+    color: #fcedd8;
+    font-family: Radnika, sans-serif;
+    user-select: none;
+    padding: 10px;
+    text-shadow: 3px 3px 0px #eb452b;
+    border-bottom: 1px solid #efa032;
+    font-weight: bold;
+    overflow: hidden;
+    display: inline-block;
+}
+
+.webpage:hover {
+    cursor: pointer;
+    text-shadow: 3px 3px 0px #fcedd8;
+    color: #eb452b;
+}
+
+.webpage:hover .svg-inline--fa{
+    margin-left:500px;
+    -webkit-transition: margin 1s;
+    -moz-transition: margin 1s;
+    transition: margin 1s;
+}
