@@ -10,7 +10,7 @@
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1"
   },
-  "homepage": "https://sam11b.github.io/updated_portfolio",
+  "homepage": "https://sam11b.github.io/updated_portfolio/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
