@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/updated_portfolio/static/css/main.9313adcb.chunk.css",
-    "main.js": "/updated_portfolio/static/js/main.e486b27a.chunk.js",
-    "main.js.map": "/updated_portfolio/static/js/main.e486b27a.chunk.js.map",
-    "runtime-main.js": "/updated_portfolio/static/js/runtime-main.7470e116.js",
-    "runtime-main.js.map": "/updated_portfolio/static/js/runtime-main.7470e116.js.map",
-    "static/js/2.8fdc4e18.chunk.js": "/updated_portfolio/static/js/2.8fdc4e18.chunk.js",
-    "static/js/2.8fdc4e18.chunk.js.map": "/updated_portfolio/static/js/2.8fdc4e18.chunk.js.map",
-    "index.html": "/updated_portfolio/index.html",
-    "precache-manifest.31dea516cd74ac08beb1739764e2b679.js": "/updated_portfolio/precache-manifest.31dea516cd74ac08beb1739764e2b679.js",
-    "service-worker.js": "/updated_portfolio/service-worker.js",
-    "static/css/main.9313adcb.chunk.css.map": "/updated_portfolio/static/css/main.9313adcb.chunk.css.map",
-    "static/js/2.8fdc4e18.chunk.js.LICENSE.txt": "/updated_portfolio/static/js/2.8fdc4e18.chunk.js.LICENSE.txt",
-    "static/media/Intro.css": "/updated_portfolio/static/media/Radnika-Medium.ee6b19b3.otf",
-    "static/media/blue-wave.2b0e0e0c.svg": "/updated_portfolio/static/media/blue-wave.2b0e0e0c.svg",
-    "static/media/Waves.css": "/updated_portfolio/static/media/my-wave.e354d281.svg",
-    "static/media/red-orange.48de8a43.svg": "/updated_portfolio/static/media/red-orange.48de8a43.svg"
+    "main.css": "/updated_porfolio/static/css/main.60fcfffd.chunk.css",
+    "main.js": "/updated_porfolio/static/js/main.9036857b.chunk.js",
+    "main.js.map": "/updated_porfolio/static/js/main.9036857b.chunk.js.map",
+    "runtime-main.js": "/updated_porfolio/static/js/runtime-main.a9622442.js",
+    "runtime-main.js.map": "/updated_porfolio/static/js/runtime-main.a9622442.js.map",
+    "static/js/2.8fdc4e18.chunk.js": "/updated_porfolio/static/js/2.8fdc4e18.chunk.js",
+    "static/js/2.8fdc4e18.chunk.js.map": "/updated_porfolio/static/js/2.8fdc4e18.chunk.js.map",
+    "index.html": "/updated_porfolio/index.html",
+    "precache-manifest.b3faaa6f7927caa9b18b3df74f46b242.js": "/updated_porfolio/precache-manifest.b3faaa6f7927caa9b18b3df74f46b242.js",
+    "service-worker.js": "/updated_porfolio/service-worker.js",
+    "static/css/main.60fcfffd.chunk.css.map": "/updated_porfolio/static/css/main.60fcfffd.chunk.css.map",
+    "static/js/2.8fdc4e18.chunk.js.LICENSE.txt": "/updated_porfolio/static/js/2.8fdc4e18.chunk.js.LICENSE.txt",
+    "static/media/Intro.css": "/updated_porfolio/static/media/Radnika-Medium.ee6b19b3.otf",
+    "static/media/blue-wave.2b0e0e0c.svg": "/updated_porfolio/static/media/blue-wave.2b0e0e0c.svg",
+    "static/media/Waves.css": "/updated_porfolio/static/media/my-wave.e354d281.svg",
+    "static/media/red-orange.48de8a43.svg": "/updated_porfolio/static/media/red-orange.48de8a43.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7470e116.js",
+    "static/js/runtime-main.a9622442.js",
     "static/js/2.8fdc4e18.chunk.js",
-    "static/css/main.9313adcb.chunk.css",
-    "static/js/main.e486b27a.chunk.js"
+    "static/css/main.60fcfffd.chunk.css",
+    "static/js/main.9036857b.chunk.js"
   ]
 }
