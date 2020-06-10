@@ -5,6 +5,7 @@ import Intro from './Intro';
 import Cartoon from './Cartoon.js';
 import Waves from './Waves.js';
 import Menu from './Menu.js';
+import Socials from './Socials.js'
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
@@ -12,6 +13,7 @@ ReactDOM.render(
     <Menu />
     <Intro />
     <Waves />
+    <Socials />
   </React.StrictMode>,
   document.getElementById('root')
 );

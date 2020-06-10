@@ -21,6 +21,7 @@
     /* width: 65%; */
     margin-left: 100px;
     position: static;
+    user-select: none;
 }
 
 .about {
@@ -35,12 +36,14 @@
     font-size: 20px;
     color: #fcedd8;
     font-family: Radnika, sans-serif;
+    user-select: none;
 }
 
 .description {
     font-size: 20px;
     font-family: Radnika, sans-serif;
     margin-left: 60px;
+    user-select: none;
 }
 
 a:link {
