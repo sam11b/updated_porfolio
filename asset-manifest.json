@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/updated_portfolio/static/css/main.852a9e2e.chunk.css",
-    "main.js": "/updated_portfolio/static/js/main.b780ae96.chunk.js",
-    "main.js.map": "/updated_portfolio/static/js/main.b780ae96.chunk.js.map",
-    "runtime-main.js": "/updated_portfolio/static/js/runtime-main.7470e116.js",
-    "runtime-main.js.map": "/updated_portfolio/static/js/runtime-main.7470e116.js.map",
-    "static/js/2.cfdb3bd1.chunk.js": "/updated_portfolio/static/js/2.cfdb3bd1.chunk.js",
-    "static/js/2.cfdb3bd1.chunk.js.map": "/updated_portfolio/static/js/2.cfdb3bd1.chunk.js.map",
-    "index.html": "/updated_portfolio/index.html",
-    "precache-manifest.3d2368ce7b91ceffe486b43d9e8a3d82.js": "/updated_portfolio/precache-manifest.3d2368ce7b91ceffe486b43d9e8a3d82.js",
-    "service-worker.js": "/updated_portfolio/service-worker.js",
-    "static/css/main.852a9e2e.chunk.css.map": "/updated_portfolio/static/css/main.852a9e2e.chunk.css.map",
-    "static/js/2.cfdb3bd1.chunk.js.LICENSE.txt": "/updated_portfolio/static/js/2.cfdb3bd1.chunk.js.LICENSE.txt",
-    "static/media/Socials.css": "/updated_portfolio/static/media/Radnika-Medium.ee6b19b3.otf",
-    "static/media/blue-wave.2b0e0e0c.svg": "/updated_portfolio/static/media/blue-wave.2b0e0e0c.svg",
-    "static/media/Waves.css": "/updated_portfolio/static/media/my-wave.e354d281.svg",
-    "static/media/red-orange.48de8a43.svg": "/updated_portfolio/static/media/red-orange.48de8a43.svg"
+    "main.css": "/updated_porfolio/static/css/main.1557afa6.chunk.css",
+    "main.js": "/updated_porfolio/static/js/main.c1db4306.chunk.js",
+    "main.js.map": "/updated_porfolio/static/js/main.c1db4306.chunk.js.map",
+    "runtime-main.js": "/updated_porfolio/static/js/runtime-main.a9622442.js",
+    "runtime-main.js.map": "/updated_porfolio/static/js/runtime-main.a9622442.js.map",
+    "static/js/2.cfdb3bd1.chunk.js": "/updated_porfolio/static/js/2.cfdb3bd1.chunk.js",
+    "static/js/2.cfdb3bd1.chunk.js.map": "/updated_porfolio/static/js/2.cfdb3bd1.chunk.js.map",
+    "index.html": "/updated_porfolio/index.html",
+    "precache-manifest.2bbebb7dd1840394506e5e7878b52e08.js": "/updated_porfolio/precache-manifest.2bbebb7dd1840394506e5e7878b52e08.js",
+    "service-worker.js": "/updated_porfolio/service-worker.js",
+    "static/css/main.1557afa6.chunk.css.map": "/updated_porfolio/static/css/main.1557afa6.chunk.css.map",
+    "static/js/2.cfdb3bd1.chunk.js.LICENSE.txt": "/updated_porfolio/static/js/2.cfdb3bd1.chunk.js.LICENSE.txt",
+    "static/media/Socials.css": "/updated_porfolio/static/media/Radnika-Medium.ee6b19b3.otf",
+    "static/media/blue-wave.2b0e0e0c.svg": "/updated_porfolio/static/media/blue-wave.2b0e0e0c.svg",
+    "static/media/Waves.css": "/updated_porfolio/static/media/my-wave.e354d281.svg",
+    "static/media/red-orange.48de8a43.svg": "/updated_porfolio/static/media/red-orange.48de8a43.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7470e116.js",
+    "static/js/runtime-main.a9622442.js",
     "static/js/2.cfdb3bd1.chunk.js",
-    "static/css/main.852a9e2e.chunk.css",
-    "static/js/main.b780ae96.chunk.js"
+    "static/css/main.1557afa6.chunk.css",
+    "static/js/main.c1db4306.chunk.js"
   ]
 }
