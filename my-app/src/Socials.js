@@ -1,5 +1,7 @@
 import React from 'react';
 import './Socials.css';
+import { faFontAwesomeLogoFull } from "@fortawesome/free-solid-svg-icons";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 class Socials extends React.Component {
     render() {

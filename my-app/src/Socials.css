@@ -9,11 +9,17 @@
     position: absolute;
     transform: rotate(270deg);
     margin: 10px;
-    z-index: -1;
+    z-index: 10;
 }
 
 .links a {
     margin-right: 20px;
     font-family: Radnika, sans-serif;
     font-size: 14px;
+    cursor: pointer;
+    z-index: 10;
+}
+
+.links a:hover {
+    color: #eb452b;
 }

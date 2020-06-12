@@ -4,9 +4,13 @@ import { faTimes } from "@fortawesome/free-solid-svg-icons";
 import {faGraduationCap} from "@fortawesome/free-solid-svg-icons";
 import {faBriefcase} from "@fortawesome/free-solid-svg-icons";
 import {faProjectDiagram} from "@fortawesome/free-solid-svg-icons";
+import {faCogs} from "@fortawesome/free-solid-svg-icons";
+import {faPlane} from "@fortawesome/free-solid-svg-icons";
+import {faAddressBook} from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import './Menu.css';
 import CSSTransitionGroup from 'react-transition-group/CSSTransitionGroup';
+
 
 class Menu extends React.Component {
     constructor(props) {
@@ -32,10 +36,14 @@ class Menu extends React.Component {
         let menuDisplay = '';
         if (this.state.menuOpen) {
             menuDisplay = <div className="popup">
-                <FontAwesomeIcon icon={faTimes} onClick={this.handleClose}/>
-                <div className="webpage"> ACADEMIC COURSEWORK <FontAwesomeIcon icon={faGraduationCap} /> </div>
-                <div className="webpage"> WORK EXPERIENCE <FontAwesomeIcon icon={faBriefcase} /> </div>
-                <div className="webpage"> PROJECTS <FontAwesomeIcon icon={faProjectDiagram} /> </div>
+                    <FontAwesomeIcon icon={faTimes} onClick={this.handleClose}/>
+                    <div className="webpage"> ACADEMIC COURSEWORK <FontAwesomeIcon icon={faGraduationCap} /> </div>
+                    <div className="webpage"> WORK EXPERIENCE <FontAwesomeIcon icon={faBriefcase} /> </div>
+                    <div className="webpage"> PROJECTS <FontAwesomeIcon icon={faProjectDiagram} /> </div>
+                    <div className="webpage"> TECHNICAL SKILLS <FontAwesomeIcon icon={faCogs} /> </div>
+                    <div className="webpage"> TRAVEL <FontAwesomeIcon icon={faPlane} /> </div>
+                    <div className="webpage"> CONTACT ME <FontAwesomeIcon icon={faAddressBook} /> </div>
+                    <div className="bottom" />
                 </div>;
         }
         return (
