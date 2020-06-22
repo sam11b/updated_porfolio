@@ -1,0 +1,26 @@
+@font-face {
+    font-family: Radnika;
+    src: url(fonts/Radnika-Medium.otf);
+  }
+
+.container {
+    height: 100%;
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+
+.card {
+    user-select: none;
+    font-family: Radnika, sans-serif;
+    font-weight: bold;
+}
+
+.logo {
+    width: 200px;
+    height: 200px;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-color:#fcedd8;
+    border-radius: 50%;
+}

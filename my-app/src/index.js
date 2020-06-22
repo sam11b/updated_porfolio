@@ -1,22 +1,54 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-import Intro from './Intro';
-import Cartoon from './Cartoon.js';
-import Waves from './Waves.js';
-import Menu from './Menu.js';
-import Socials from './Socials.js'
+import {
+  BrowserRouter as Router,
+  Switch,
+  Route,
+  Link
+} from "react-router-dom";
+import Main from './Main';
+import Academics from './Academics';
 import * as serviceWorker from './serviceWorker';
 
+function App() {
+  return (
+    <Router>
+      <div>
+        {/*
+          A <Switch> looks through all its children <Route>
+          elements and renders the first one whose path
+          matches the current URL. Use a <Switch> any time
+          you have multiple routes, but you want only one
+          of them to render at a time
+        */}
+        <Switch>
+          <Route exact path="/">
+            <Main />
+          </Route>
+          <Route path="/academics">
+            <Academics />
+          </Route>
+        </Switch>
+      </div>
+    </Router>
+  );
+}
+
+function Dashboard() {
+  return (
+    <div>
+      <h2>Dashboard</h2>
+    </div>
+  );
+}
+
 ReactDOM.render(
-  <React.StrictMode>
-    <Menu />
-    <Intro />
-    <Waves />
-    <Socials />
-  </React.StrictMode>,
-  document.getElementById('root')
+  <Router>
+    <App />
+  </Router>,
+  document.getElementById("root")
 );
+
 
 // If you want your app to work offline and load faster, you can change
 // unregister() to register() below. Note this comes with some pitfalls.
