@@ -28,6 +28,7 @@ function App() {
           <Route path="/academics">
             <Academics />
           </Route>
+          <Route component={() => (<div>404 Not found </div>)} />
         </Switch>
       </div>
     </Router>
