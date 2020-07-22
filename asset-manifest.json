@@ -1,34 +1,39 @@
 {
   "files": {
-    "main.css": "/updated_porfolio/static/css/main.93d8ed4f.chunk.css",
-    "main.js": "/updated_porfolio/static/js/main.2910cfb4.chunk.js",
-    "main.js.map": "/updated_porfolio/static/js/main.2910cfb4.chunk.js.map",
+    "main.css": "/updated_porfolio/static/css/main.3e53f095.chunk.css",
+    "main.js": "/updated_porfolio/static/js/main.d3706443.chunk.js",
+    "main.js.map": "/updated_porfolio/static/js/main.d3706443.chunk.js.map",
     "runtime-main.js": "/updated_porfolio/static/js/runtime-main.a9622442.js",
     "runtime-main.js.map": "/updated_porfolio/static/js/runtime-main.a9622442.js.map",
-    "static/js/2.346a570c.chunk.js": "/updated_porfolio/static/js/2.346a570c.chunk.js",
-    "static/js/2.346a570c.chunk.js.map": "/updated_porfolio/static/js/2.346a570c.chunk.js.map",
+    "static/js/2.4b78795a.chunk.js": "/updated_porfolio/static/js/2.4b78795a.chunk.js",
+    "static/js/2.4b78795a.chunk.js.map": "/updated_porfolio/static/js/2.4b78795a.chunk.js.map",
     "index.html": "/updated_porfolio/index.html",
-    "precache-manifest.38eeb5627019a9b51fe059cc83421481.js": "/updated_porfolio/precache-manifest.38eeb5627019a9b51fe059cc83421481.js",
+    "precache-manifest.c1a4f40b413ed41354f7fd9890024f27.js": "/updated_porfolio/precache-manifest.c1a4f40b413ed41354f7fd9890024f27.js",
     "service-worker.js": "/updated_porfolio/service-worker.js",
-    "static/css/main.93d8ed4f.chunk.css.map": "/updated_porfolio/static/css/main.93d8ed4f.chunk.css.map",
-    "static/js/2.346a570c.chunk.js.LICENSE.txt": "/updated_porfolio/static/js/2.346a570c.chunk.js.LICENSE.txt",
-    "static/media/Classes.css": "/updated_porfolio/static/media/Radnika-Medium.ee6b19b3.otf",
+    "static/css/main.3e53f095.chunk.css.map": "/updated_porfolio/static/css/main.3e53f095.chunk.css.map",
+    "static/js/2.4b78795a.chunk.js.LICENSE.txt": "/updated_porfolio/static/js/2.4b78795a.chunk.js.LICENSE.txt",
+    "static/media/JobSummaries.css": "/updated_porfolio/static/media/Radnika-Medium.ee6b19b3.otf",
+    "static/media/account-balances.png": "/updated_porfolio/static/media/account-balances.485978bd.png",
     "static/media/blue-wave.2b0e0e0c.svg": "/updated_porfolio/static/media/blue-wave.2b0e0e0c.svg",
     "static/media/cs160-banner.jpg": "/updated_porfolio/static/media/cs160-banner.86866047.jpg",
     "static/media/cs162bean.png": "/updated_porfolio/static/media/cs162bean.e21ee85d.png",
     "static/media/cs170-penguin.png": "/updated_porfolio/static/media/cs170-penguin.38a9e3b9.png",
     "static/media/cs188_bot.png": "/updated_porfolio/static/media/cs188_bot.40c41b7d.png",
     "static/media/Menu.css": "/updated_porfolio/static/media/doe_library.c90927bc.png",
+    "static/media/emission-2.PNG": "/updated_porfolio/static/media/emission-2.cc0dcb55.PNG",
+    "static/media/emission-app.png": "/updated_porfolio/static/media/emission-app.b3e547f1.png",
     "static/media/geogc188.jpg": "/updated_porfolio/static/media/geogc188.61514d53.jpg",
     "static/media/Waves.css": "/updated_porfolio/static/media/my-wave.e354d281.svg",
     "static/media/pandas-python.jpeg": "/updated_porfolio/static/media/pandas-python.638afbef.jpeg",
     "static/media/pavlov.jpg": "/updated_porfolio/static/media/pavlov.60c9092a.jpg",
-    "static/media/red-orange.48de8a43.svg": "/updated_porfolio/static/media/red-orange.48de8a43.svg"
+    "static/media/red-orange.48de8a43.svg": "/updated_porfolio/static/media/red-orange.48de8a43.svg",
+    "static/media/sociol-textbook.jpg": "/updated_porfolio/static/media/sociol-textbook.71533c5f.jpg",
+    "static/media/uber-atg.JPG": "/updated_porfolio/static/media/uber-atg.0fb3d1ad.JPG"
   },
   "entrypoints": [
     "static/js/runtime-main.a9622442.js",
-    "static/js/2.346a570c.chunk.js",
-    "static/css/main.93d8ed4f.chunk.css",
-    "static/js/main.2910cfb4.chunk.js"
+    "static/js/2.4b78795a.chunk.js",
+    "static/css/main.3e53f095.chunk.css",
+    "static/js/main.d3706443.chunk.js"
   ]
 }
