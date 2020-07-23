@@ -1,0 +1,68 @@
+@font-face {
+    font-family: Radnika;
+    src: url(fonts/Radnika-Medium.otf);
+  }
+
+.work-title {
+    font-size: 100px;
+    color: #fcedd8;
+    font-family: 'Niconne', cursive;
+    line-height: 150px;
+    font-weight: 700;
+    text-shadow: 3px 3px 0px #eb452b, 
+              7px 7px 0px #efa032, 
+              10px 10px 0px #46b59b, 
+              15px 15px 0px #017e7f, 
+              20px 20px 0px #052939, 
+              25px 25px 0px #c11a2b; 
+    /* width: 65%; */
+    position: static;
+    user-select: none;
+    text-align: center;
+    margin-top: -50px;
+    background-color: #eb452b;
+    /* add some nice image underlay */
+}
+
+.work-card {
+    display: flex;
+    margin: 50px;
+    width: 90%;
+    height: 459px;
+}
+
+.work-place {
+    font-family: Radnika, sans-serif;
+    margin-left: 20px;
+    font-size: 40px;
+    color: #052939;
+}
+
+.work-position {
+    font-family: Radnika, sans-serif;
+    margin-left: 20px;
+    font-size: 20px;
+    color: #c11a2b;
+}
+
+.work-date {
+    font-family: Radnika, sans-serif;
+    margin-left: 20px;
+    font-size: 20px;
+    color: #017e7f;
+}
+
+.work-description {
+    font-family: Radnika, sans-serif;
+    margin-left: 20px;
+    font-size: 16px;
+    line-height: 30px;
+    color: #052939;
+}
+
+.work-skills {
+    font-family: Radnika, sans-serif;
+    margin-left: 20px;
+    font-size: 20px;
+    color: #c11a2b;
+}

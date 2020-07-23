@@ -42,7 +42,7 @@ class Menu extends React.Component {
                 <div className="popup">
                     <FontAwesomeIcon icon={faTimes} onClick={this.handleClose}/>
                         <div className="webpage"> <Link to ="/academics"> ACADEMIC COURSEWORK </Link> <FontAwesomeIcon icon={faGraduationCap} /> </div>
-                        <div className="webpage"> WORK EXPERIENCE <FontAwesomeIcon icon={faBriefcase} /> </div>
+                        <div className="webpage"> <Link to="/work-experience"> WORK EXPERIENCE </Link> <FontAwesomeIcon icon={faBriefcase} /> </div>
                         <div className="webpage"> PROJECTS <FontAwesomeIcon icon={faProjectDiagram} /> </div>
                         <div className="webpage"> TECHNICAL SKILLS <FontAwesomeIcon icon={faCogs} /> </div>
                         <div className="webpage"> TRAVEL <FontAwesomeIcon icon={faPlane} /> </div>

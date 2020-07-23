@@ -8,6 +8,7 @@ import {
 } from "react-router-dom";
 import Main from './Main';
 import Academics from './Academics';
+import WorkEx from './WorkEx';
 import * as serviceWorker from './serviceWorker';
 
 function App() {
@@ -27,6 +28,9 @@ function App() {
           </Route>
           <Route path="/academics">
             <Academics />
+          </Route>
+          <Route path="/work-experience">
+            <WorkEx />
           </Route>
           <Route component={() => (<div>404 Not found </div>)} />
         </Switch>
