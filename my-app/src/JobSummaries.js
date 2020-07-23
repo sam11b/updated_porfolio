@@ -14,7 +14,7 @@ class Jobs extends React.Component {
             <div className="work-title"> Work Experience </div>
             <Fade left cascade>
                 <div className="work-card">
-                    <img src={UberPic} width='408px' height='459px' />
+                    <img src={UberPic} width='408px' height='459px' style={{objectFit: 'cover'}} />
                     <div className="work-summary">
                         <div className="work-place">
                             Uber Advanced Technologies Group
