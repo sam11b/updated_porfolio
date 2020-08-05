@@ -11,8 +11,10 @@
     "react": "^16.13.1",
     "react-addons-css-transition-group": "^15.6.2",
     "react-dom": "^16.13.1",
+    "react-native": "^0.63.2",
+    "react-player": "^2.6.0",
     "react-reveal": "^1.2.2",
-    "react-scripts": "3.4.1"
+    "react-scripts": "^3.4.1"
   },
   "scripts": {
     "predeploy": "npm run build",

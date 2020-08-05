@@ -1,0 +1,76 @@
+@font-face {
+    font-family: Radnika;
+    src: url(fonts/Radnika-Medium.otf);
+  }
+
+.project-card {
+    background-color: #46b59b;
+    display: flex;
+    margin-right: 35px;
+    margin-left: 35px;
+}
+
+.work-title {
+    font-size: 100px;
+    color: #fcedd8;
+    font-family: 'Niconne', cursive;
+    line-height: 150px;
+    font-weight: 700;
+    text-shadow: 3px 3px 0px #eb452b, 
+              7px 7px 0px #efa032, 
+              10px 10px 0px #46b59b, 
+              15px 15px 0px #017e7f, 
+              20px 20px 0px #052939, 
+              25px 25px 0px #c11a2b; 
+    /* width: 65%; */
+    position: static;
+    user-select: none;
+    text-align: center;
+    margin-top: -50px;
+    background-color: #eb452b;
+    /* add some nice image underlay */
+}
+
+.carousel {
+    margin-top: 50px;
+}
+
+.project-img {
+    height: 600px;
+    margin: 10px;
+}
+
+.project-title {
+    font-family: Radnika, sans-serif;
+    margin-left: 20px;
+    font-size: 40px;
+    color: #052939;
+    margin-top: 20px;
+}
+
+.technologies {
+    font-family: Radnika, sans-serif;
+    margin-left: 20px;
+    font-size: 20px;
+    color: #c11a2b;
+    margin-top: 10px;
+}
+
+.desc {
+    font-family: Radnika, sans-serif;
+    margin-left: 20px;
+    font-size: 20px;
+    line-height: 30px;
+    color: #fcedd8;
+    margin-right: 20px;
+    margin-top: 10px;
+}
+
+.player {
+    margin-left: 20px;
+}
+
+.long-img {
+    width: 480px; 
+    height: 272px;
+}

@@ -9,6 +9,7 @@ import {
 import Main from './Main';
 import Academics from './Academics';
 import WorkEx from './WorkEx';
+import Projects from './Projects';
 import * as serviceWorker from './serviceWorker';
 
 function App() {
@@ -31,6 +32,9 @@ function App() {
           </Route>
           <Route path="/work-experience">
             <WorkEx />
+          </Route>
+          <Route path="/projects">
+            <Projects />
           </Route>
           <Route component={() => (<div>404 Not found </div>)} />
         </Switch>

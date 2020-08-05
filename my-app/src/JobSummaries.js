@@ -1,6 +1,6 @@
 import React from 'react';
 import Fade from 'react-reveal/Fade';
-import UberPic from './img/uber-atg.JPG';
+import UberPic from './img/uber-atg.png';
 import Emission from './img/emission-app.png';
 import Emission2 from './img/emission-2.PNG';
 import BeachPoint from './img/beach-point.jpeg';
@@ -14,7 +14,7 @@ class Jobs extends React.Component {
             <div className="work-title"> Work Experience </div>
             <Fade left cascade>
                 <div className="work-card">
-                    <img src={UberPic} width='408px' height='459px' style={{objectFit: 'cover'}} />
+                    <img src={UberPic} width='400px' style={{objectFit: 'cover', position: 'static'}} />
                     <div className="work-summary">
                         <div className="work-place">
                             Uber Advanced Technologies Group
