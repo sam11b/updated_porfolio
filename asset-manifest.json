@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/updated_porfolio/static/css/main.3e53f095.chunk.css",
-    "main.js": "/updated_porfolio/static/js/main.a856debd.chunk.js",
-    "main.js.map": "/updated_porfolio/static/js/main.a856debd.chunk.js.map",
-    "runtime-main.js": "/updated_porfolio/static/js/runtime-main.a9622442.js",
-    "runtime-main.js.map": "/updated_porfolio/static/js/runtime-main.a9622442.js.map",
-    "static/js/2.4b78795a.chunk.js": "/updated_porfolio/static/js/2.4b78795a.chunk.js",
-    "static/js/2.4b78795a.chunk.js.map": "/updated_porfolio/static/js/2.4b78795a.chunk.js.map",
+    "main.css": "/updated_porfolio/static/css/main.6a8b2c33.chunk.css",
+    "main.js": "/updated_porfolio/static/js/main.adeb6c0b.chunk.js",
+    "main.js.map": "/updated_porfolio/static/js/main.adeb6c0b.chunk.js.map",
+    "runtime-main.js": "/updated_porfolio/static/js/runtime-main.b8fb6444.js",
+    "runtime-main.js.map": "/updated_porfolio/static/js/runtime-main.b8fb6444.js.map",
+    "static/js/2.46ce3a39.chunk.js": "/updated_porfolio/static/js/2.46ce3a39.chunk.js",
+    "static/js/2.46ce3a39.chunk.js.map": "/updated_porfolio/static/js/2.46ce3a39.chunk.js.map",
     "index.html": "/updated_porfolio/index.html",
-    "precache-manifest.bf8ef84927dab1efbd69ae4569e12994.js": "/updated_porfolio/precache-manifest.bf8ef84927dab1efbd69ae4569e12994.js",
+    "precache-manifest.9cb880fa8c7fcdf9b877d28165900b61.js": "/updated_porfolio/precache-manifest.9cb880fa8c7fcdf9b877d28165900b61.js",
     "service-worker.js": "/updated_porfolio/service-worker.js",
-    "static/css/main.3e53f095.chunk.css.map": "/updated_porfolio/static/css/main.3e53f095.chunk.css.map",
-    "static/js/2.4b78795a.chunk.js.LICENSE.txt": "/updated_porfolio/static/js/2.4b78795a.chunk.js.LICENSE.txt",
-    "static/media/JobSummaries.css": "/updated_porfolio/static/media/Radnika-Medium.ee6b19b3.otf",
+    "static/css/main.6a8b2c33.chunk.css.map": "/updated_porfolio/static/css/main.6a8b2c33.chunk.css.map",
+    "static/js/2.46ce3a39.chunk.js.LICENSE.txt": "/updated_porfolio/static/js/2.46ce3a39.chunk.js.LICENSE.txt",
+    "static/media/Projects.css": "/updated_porfolio/static/media/Radnika-Medium.ee6b19b3.otf",
+    "static/media/SensoryMap.png": "/updated_porfolio/static/media/SensoryMap.abc855d1.png",
     "static/media/account-balances.png": "/updated_porfolio/static/media/account-balances.485978bd.png",
     "static/media/blue-wave.2b0e0e0c.svg": "/updated_porfolio/static/media/blue-wave.2b0e0e0c.svg",
     "static/media/cs160-banner.jpg": "/updated_porfolio/static/media/cs160-banner.86866047.jpg",
@@ -28,12 +29,14 @@
     "static/media/pavlov.jpg": "/updated_porfolio/static/media/pavlov.60c9092a.jpg",
     "static/media/red-orange.48de8a43.svg": "/updated_porfolio/static/media/red-orange.48de8a43.svg",
     "static/media/sociol-textbook.jpg": "/updated_porfolio/static/media/sociol-textbook.71533c5f.jpg",
-    "static/media/uber-atg.JPG": "/updated_porfolio/static/media/uber-atg.0fb3d1ad.JPG"
+    "static/media/token-2.png": "/updated_porfolio/static/media/token-2.3574966a.png",
+    "static/media/token-app.png": "/updated_porfolio/static/media/token-app.ec0264c5.png",
+    "static/media/uber-atg.png": "/updated_porfolio/static/media/uber-atg.8c885cb7.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.a9622442.js",
-    "static/js/2.4b78795a.chunk.js",
-    "static/css/main.3e53f095.chunk.css",
-    "static/js/main.a856debd.chunk.js"
+    "static/js/runtime-main.b8fb6444.js",
+    "static/js/2.46ce3a39.chunk.js",
+    "static/css/main.6a8b2c33.chunk.css",
+    "static/js/main.adeb6c0b.chunk.js"
   ]
 }
