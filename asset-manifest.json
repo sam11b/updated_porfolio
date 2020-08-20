@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/updated_porfolio/static/css/main.6a8b2c33.chunk.css",
-    "main.js": "/updated_porfolio/static/js/main.adeb6c0b.chunk.js",
-    "main.js.map": "/updated_porfolio/static/js/main.adeb6c0b.chunk.js.map",
+    "main.css": "/updated_porfolio/static/css/main.b965a4ba.chunk.css",
+    "main.js": "/updated_porfolio/static/js/main.3a9308b3.chunk.js",
+    "main.js.map": "/updated_porfolio/static/js/main.3a9308b3.chunk.js.map",
     "runtime-main.js": "/updated_porfolio/static/js/runtime-main.b8fb6444.js",
     "runtime-main.js.map": "/updated_porfolio/static/js/runtime-main.b8fb6444.js.map",
-    "static/js/2.46ce3a39.chunk.js": "/updated_porfolio/static/js/2.46ce3a39.chunk.js",
-    "static/js/2.46ce3a39.chunk.js.map": "/updated_porfolio/static/js/2.46ce3a39.chunk.js.map",
+    "static/js/2.c48f61cd.chunk.js": "/updated_porfolio/static/js/2.c48f61cd.chunk.js",
+    "static/js/2.c48f61cd.chunk.js.map": "/updated_porfolio/static/js/2.c48f61cd.chunk.js.map",
     "index.html": "/updated_porfolio/index.html",
-    "precache-manifest.9cb880fa8c7fcdf9b877d28165900b61.js": "/updated_porfolio/precache-manifest.9cb880fa8c7fcdf9b877d28165900b61.js",
+    "precache-manifest.a1d86460bcb7eddb2ae9f59b89ce5833.js": "/updated_porfolio/precache-manifest.a1d86460bcb7eddb2ae9f59b89ce5833.js",
     "service-worker.js": "/updated_porfolio/service-worker.js",
-    "static/css/main.6a8b2c33.chunk.css.map": "/updated_porfolio/static/css/main.6a8b2c33.chunk.css.map",
-    "static/js/2.46ce3a39.chunk.js.LICENSE.txt": "/updated_porfolio/static/js/2.46ce3a39.chunk.js.LICENSE.txt",
-    "static/media/Projects.css": "/updated_porfolio/static/media/Radnika-Medium.ee6b19b3.otf",
+    "static/css/main.b965a4ba.chunk.css.map": "/updated_porfolio/static/css/main.b965a4ba.chunk.css.map",
+    "static/js/2.c48f61cd.chunk.js.LICENSE.txt": "/updated_porfolio/static/js/2.c48f61cd.chunk.js.LICENSE.txt",
+    "static/media/TechSkills.css": "/updated_porfolio/static/media/Radnika-Medium.ee6b19b3.otf",
     "static/media/SensoryMap.png": "/updated_porfolio/static/media/SensoryMap.abc855d1.png",
     "static/media/account-balances.png": "/updated_porfolio/static/media/account-balances.485978bd.png",
     "static/media/blue-wave.2b0e0e0c.svg": "/updated_porfolio/static/media/blue-wave.2b0e0e0c.svg",
@@ -35,8 +35,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.b8fb6444.js",
-    "static/js/2.46ce3a39.chunk.js",
-    "static/css/main.6a8b2c33.chunk.css",
-    "static/js/main.adeb6c0b.chunk.js"
+    "static/js/2.c48f61cd.chunk.js",
+    "static/css/main.b965a4ba.chunk.css",
+    "static/js/main.3a9308b3.chunk.js"
   ]
 }
