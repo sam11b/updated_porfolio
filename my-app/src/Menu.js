@@ -44,7 +44,7 @@ class Menu extends React.Component {
                         <div className="webpage"> <Link to ="/academics"> ACADEMIC COURSEWORK </Link> <FontAwesomeIcon icon={faGraduationCap} /> </div>
                         <div className="webpage"> <Link to="/work-experience"> WORK EXPERIENCE </Link> <FontAwesomeIcon icon={faBriefcase} /> </div>
                         <div className="webpage"> <Link to="/projects"> PROJECTS </Link> <FontAwesomeIcon icon={faProjectDiagram} /> </div>
-                        <div className="webpage"> TECHNICAL SKILLS <FontAwesomeIcon icon={faCogs} /> </div>
+                        <div className="webpage"> <Link to="/technical-skills"> TECHNICAL SKILLS </Link> <FontAwesomeIcon icon={faCogs} /> </div>
                         <div className="webpage"> TRAVEL <FontAwesomeIcon icon={faPlane} /> </div>
                         <div className="webpage"> CONTACT ME <FontAwesomeIcon icon={faAddressBook} /> </div>
                     <div className="bottom" />
